@@ -1,0 +1,10 @@
+Notes & Tips
+Data is stored in binary file student.txt in the same directory. You can remove that file to reset the database.
+
+Admin credentials: admin / admin123
+Teacher credentials: teacher / teacher123
+
+The program validates numeric inputs and allows blank input when updating to keep the existing value.
+
+Grade is auto-calculated if left blank during insert or update (if grade left blank during update).
+
